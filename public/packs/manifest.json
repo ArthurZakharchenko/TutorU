@@ -1,0 +1,21 @@
+{
+  "application.js": "/packs/js/application-1187f7e2682d8c72a2c0.js",
+  "application.js.map": "/packs/js/application-1187f7e2682d8c72a2c0.js.map",
+  "entrypoints": {
+    "application": {
+      "js": [
+        "/packs/js/application-1187f7e2682d8c72a2c0.js"
+      ],
+      "js.map": [
+        "/packs/js/application-1187f7e2682d8c72a2c0.js.map"
+      ]
+    }
+  },
+  "media/images/Vector2.1.jpg": "/packs/media/images/Vector2.1-7ec62f3282ca8ac254a869f18e472ad6.jpg",
+  "media/images/Vector2@2x.jpg": "/packs/media/images/Vector2@2x-5efb995fd6fdbc1369f7e6e07a7f6250.jpg",
+  "media/images/icon1.svg": "/packs/media/images/icon1-72961b70460de0f2e6f126adfc3db0ef.svg",
+  "media/images/icon2.svg": "/packs/media/images/icon2-6cd8c120c2ef7412cfa9e5c38f53569c.svg",
+  "media/images/icon3.svg": "/packs/media/images/icon3-b7307b1387d5c4e671891d15335bbcc0.svg",
+  "media/images/illustration.png": "/packs/media/images/illustration-24bf45f1f1cee41fd894ae10f2e1e6c3.png",
+  "media/images/leaf.png": "/packs/media/images/leaf-703a04c6da1ec52dbf617b0924878b07.png"
+}
